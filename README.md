@@ -1,5 +1,6 @@
-## Setup
 <div align="center">
+  
+# Setup
 
   ### <u> Simple Method <u>
   Step-1: Click on scan qr code and get asena code
